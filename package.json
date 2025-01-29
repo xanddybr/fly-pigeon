@@ -1,8 +1,9 @@
 {
   "name": "fly-pigeon",
+  "versionament-method":"Semantic versionament (SEMVER)",
   "version": "1.0.0",
-  "branch": "main",
-  "description": "System developed by catch survay and notifications by mail, for devlivery notification messages",
+  "releases": [],
+  "description": "System developed by receive survey and send msg via email",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
